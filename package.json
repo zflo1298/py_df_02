@@ -1,20 +1,17 @@
 {
   "name": "scraper",
-  "description": "a really cool app",
   "version": "1.0.0",
+  "description": "Dofus Treasure Hunting clues database scraper",
   "main": "scraper.js",
-  "engines": {
-    "node": "18.20.3",
-    "npm": "10.7.0"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "Roman Butakov",
+  "license": "Unlicense",
   "dependencies": {
-    "cllc": "1.2.0",
-    "needle": "3.3.1",
-    "sqlite3": "5.1.7",
-    "tress": "1.1.4"
-  },
-  "keywords": [
-    "scraper",
-    "morph"
-  ]
+    "cllc": "0.0.10",
+    "needle": "^2.0.1",
+    "sqlite3": "^3.1.13",
+    "tress": "^1.0.5"
+  }
 }
