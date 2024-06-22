@@ -2,12 +2,10 @@
   "version": "0.0.1",
   "main": "scraper.js",
   "dependencies": {
-    "cheerio": "latest",
-    "request": "latest",
-    "sqlite3": "latest"
-    "cllc": "latest",
-    "needle": "latest",
-    "tress": "latest"
+    "cllc": "0.0.10",
+    "needle": "^2.0.1",
+    "sqlite3": "^3.1.13",
+    "tress": "^1.0.5"
   },
   "keywords": [
     "scraper",
