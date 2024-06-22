@@ -1,5 +1,6 @@
 {
   "name": "scraper",
+  "description": "a really cool app",
   "version": "1.0.0",
   "main": "scraper.js",
   "engines": {
