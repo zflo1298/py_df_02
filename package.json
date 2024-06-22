@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "scraper.js",
   "engines": {
-    "node": "13.1.0"
+    "node": "18.20.3",
+    "npm": "10.7.0"
   },
   "dependencies": {
     "cllc": "1.2.0",
