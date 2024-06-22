@@ -1,5 +1,6 @@
 {
-  "version": "0.0.1",
+  "name": "scraper",
+  "version": "1.0.0",
   "main": "scraper.js",
   "dependencies": {
     "cllc": "1.2.0",
